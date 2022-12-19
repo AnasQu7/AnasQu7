@@ -41,7 +41,7 @@ technology.
 
 
 [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' color="blue" alt='linkedin' height='40'>](https://www.linkedin.com/in/anas-quraishi-7b9927214){:target="_blank"}
-<a href='https://anasqu7.github.io/' target='blank'>[<img src='https://png2.cleanpng.com/sh/cda4e3bf7f61923ad766fd88cdbd860a/L0KzQYm3VMI1N6dAj5H0aYP2gLBuTfNwdaF6jNd7LXnmf7B6TgNmeqdue9c2d3B1e373hgJucaUyeud8aX7og8S0kP9zfJd0hNt4LUXkdLeAUcc4OWQ8fNgELkK7R4K4UcI0OWY3TKcEM0C0RYGAWckveJ9s/kisspng-computer-icons-service-work-permit-business-portfolio-5adf7177137df9.2871112315245930150799.png' alt='website' height='40'>]</a>
+<a href='https://anasqu7.github.io/' target='_blank'><img src='https://png2.cleanpng.com/sh/cda4e3bf7f61923ad766fd88cdbd860a/L0KzQYm3VMI1N6dAj5H0aYP2gLBuTfNwdaF6jNd7LXnmf7B6TgNmeqdue9c2d3B1e373hgJucaUyeud8aX7og8S0kP9zfJd0hNt4LUXkdLeAUcc4OWQ8fNgELkK7R4K4UcI0OWY3TKcEM0C0RYGAWckveJ9s/kisspng-computer-icons-service-work-permit-business-portfolio-5adf7177137df9.2871112315245930150799.png' alt='website' height='40'></a>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
