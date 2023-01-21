@@ -34,7 +34,7 @@ technology.
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
 </p>
 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Raect Native
 - 💬 Ask me about Js / Node Js / React Js / Mongo DB / Express Js / Socket.io / Chakra UI / Material UI / Tailwind UI / Boot Strap / CSS  
 - 📫 How to reach me: mohammadanasquresh@gmail.com 
 - 😄 Pronouns: Anas 
